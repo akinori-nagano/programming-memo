@@ -66,3 +66,7 @@ git stash list
 git stash drop stash_name
 git stash pop stash_name
 ```
+
+----
+## git tui tool
+lazygit
